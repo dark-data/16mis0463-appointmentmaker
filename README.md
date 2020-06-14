@@ -1,7 +1,8 @@
 # 16mis0463-appointmentmaker
 
 # assignment 2
-
+Name: vivek s
+Regno: 16MIS0463
 **live:** https://java-appointment-app.herokuapp.com/
 
 ## features
