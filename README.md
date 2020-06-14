@@ -16,6 +16,12 @@
 ![image](https://user-images.githubusercontent.com/64268236/84596894-ebe4b200-ae7d-11ea-891f-2a2fed2bd5c3.png)
 ![image](https://user-images.githubusercontent.com/64268236/84595980-9ce84e00-ae78-11ea-81a6-c2d8f7107850.png)
 
+# google calendar sample event 
+![image](https://user-images.githubusercontent.com/64268236/84596970-5990de00-ae7e-11ea-81f2-97a0d09de8e0.png)
+![image](https://user-images.githubusercontent.com/64268236/84597012-90ff8a80-ae7e-11ea-80ad-4744d41cd717.png)
+![image](https://user-images.githubusercontent.com/64268236/84597024-a83e7800-ae7e-11ea-92c9-91f5e2d2404a.png)
+
+
 # adding events
 
 dates specific to the free slots updates by the user
