@@ -17,5 +17,7 @@
 # adding events
 dates specific to the free slots updates by the user
 ![image](https://user-images.githubusercontent.com/64268236/84596075-2b5ccf80-ae79-11ea-9778-51e0b3849e62.png)
-![image](https://user-images.githubusercontent.com/64268236/84596129-90b0c080-ae79-11ea-84cc-4c755e38b6b7.png)
 ![image](https://user-images.githubusercontent.com/64268236/84596226-13398000-ae7a-11ea-9216-ba94b2d6a873.png)
+# event by application can be viewed from "other events"
+![image](https://user-images.githubusercontent.com/64268236/84596269-48de6900-ae7a-11ea-9ea2-a0e5643bf38b.png)
+
