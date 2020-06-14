@@ -14,3 +14,8 @@
 ## scamplle screen shots
 
 ![image](https://user-images.githubusercontent.com/64268236/84595980-9ce84e00-ae78-11ea-81a6-c2d8f7107850.png)
+# adding events
+dates specific to the free slots updates by the user
+![image](https://user-images.githubusercontent.com/64268236/84596075-2b5ccf80-ae79-11ea-9778-51e0b3849e62.png)
+![image](https://user-images.githubusercontent.com/64268236/84596129-90b0c080-ae79-11ea-84cc-4c755e38b6b7.png)
+![image](https://user-images.githubusercontent.com/64268236/84596226-13398000-ae7a-11ea-9216-ba94b2d6a873.png)
