@@ -17,7 +17,6 @@ Regno: 16MIS0463
 
 ![image](https://user-images.githubusercontent.com/64268236/84596894-ebe4b200-ae7d-11ea-891f-2a2fed2bd5c3.png)
 ![image](https://user-images.githubusercontent.com/64268236/84731940-028f2400-afb8-11ea-824e-83f9c9e94e68.png)
-
 # google calendar sample event 
 ![image](https://user-images.githubusercontent.com/64268236/84596970-5990de00-ae7e-11ea-81f2-97a0d09de8e0.png)
 ![image](https://user-images.githubusercontent.com/64268236/84597012-90ff8a80-ae7e-11ea-80ad-4744d41cd717.png)
