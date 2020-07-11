@@ -1,4 +1,4 @@
-# 16mis0463-appointmentmaker-google-calendar-api
+# Appointmentmaker-google-calendar-api
 
 # assignment 2
 Name: vivek s
